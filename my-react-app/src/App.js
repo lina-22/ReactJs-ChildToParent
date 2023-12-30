@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <Form onSubmit={getData} />
+      <Form onSubmitApp={getData} />
     </div>
   );
 }
